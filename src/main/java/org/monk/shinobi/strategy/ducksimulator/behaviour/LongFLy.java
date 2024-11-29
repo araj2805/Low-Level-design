@@ -1,4 +1,4 @@
-package org.monk.shinobi.strategy.behaviour;
+package org.monk.shinobi.strategy.ducksimulator.behaviour;
 
 /**
  * Copyright (c) 2023.
