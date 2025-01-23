@@ -1,4 +1,4 @@
-package org.monk.shinobi.observer;
+package org.monk.shinobi.behavioral.observer;
 
 import java.util.ArrayList;
 import java.util.List;

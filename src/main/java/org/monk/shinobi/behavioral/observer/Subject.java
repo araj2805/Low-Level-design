@@ -1,4 +1,4 @@
-package org.monk.shinobi.observer;
+package org.monk.shinobi.behavioral.observer;
 
 /**
  * Copyright (c) 2024.

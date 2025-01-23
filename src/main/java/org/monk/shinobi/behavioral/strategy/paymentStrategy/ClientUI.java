@@ -1,4 +1,4 @@
-package org.monk.shinobi.strategy.paymentStrategy;
+package org.monk.shinobi.behavioral.strategy.paymentStrategy;
 
 /**
  * Copyright (c) 2024.

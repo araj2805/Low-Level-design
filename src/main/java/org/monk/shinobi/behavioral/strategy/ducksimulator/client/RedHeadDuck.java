@@ -1,6 +1,6 @@
-package org.monk.shinobi.strategy.ducksimulator.client;
+package org.monk.shinobi.behavioral.strategy.ducksimulator.client;
 
-import org.monk.shinobi.strategy.ducksimulator.behaviour.Flyable;
+import org.monk.shinobi.behavioral.strategy.ducksimulator.behaviour.Flyable;
 
 /**
  * Copyright (c) 2023.

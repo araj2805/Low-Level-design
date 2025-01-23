@@ -1,4 +1,4 @@
-package org.monk.shinobi.singleton;
+package org.monk.shinobi.creational.singleton;
 
 /**
  * Copyright (c) 2024.
